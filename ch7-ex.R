@@ -1,5 +1,5 @@
 # ch7-ex
-setwd("D:\\undergraduate\\研\\432统计学\\应用时间序列分析资料\\R解答")
+setwd("F:\\OneDrive - sjtu.edu.cn\\Course\\时序分析\\program\\Applied-Time-Series-Analysis-Wangyan")
 library(openxlsx)
 library(tseries)
 library(aTSA)
